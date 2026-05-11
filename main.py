@@ -1,5 +1,7 @@
 from cliente import Cliente
-from excepciones import ClienteError
+from excepciones import ClienteInvalidoError
+from servicio import ReservaSala
+from reserva import Reserva
 
 try:
 
@@ -9,6 +11,6 @@ try:
 
     cliente2 = Cliente("", 456, "3111111111")
 
-except ClienteError as e:
+except ClienteInvalidoError as e:
 
     print("Error:", e)
