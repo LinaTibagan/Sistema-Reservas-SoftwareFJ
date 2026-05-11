@@ -1,4 +1,5 @@
 # Proyecto Fase 4 - Programación
+
 Sistema de gestión para Software FJ
 
 En este proyecto se está desarrollando un sistema en Python para
@@ -17,14 +18,14 @@ Archivos principales:
 - logs.txt → registro de errores y eventos
 - main.py → pruebas y ejecución del sistema
 
-Importante:
-Antes de comenzar a trabajar ejecutar:
-git pull
+## Integrantes
 
-Y después de realizar cambios:
-git add .
-git commit -m "descripción"
-git push
+- Lina Mayerli Tibagan Motavita
+  - Desarrollo de cliente.py
+  - Desarrollo de servicio.py
+  - Desarrollo de main.py
 
-La idea es mantener el código organizado y que todos podamos
-trabajar sobre el mismo proyecto sin problemas.
+- YEFERSON YESID VEGA BERDUGO
+  - Desarrollo excepciones.py
+  -
+  -
