@@ -1,10 +1,12 @@
 # Excepción cuando hay errores con clientes
-class ClienteError(Exception):
+class ClienteInvalidoError(Exception):
     pass
 
+
 # Excepción cuando hay problemas con servicios
-class ServicioError(Exception):
+class ServicioNoDisponibleError(Exception):
     pass
+
 
 # Excepción para reservas
 class ReservaError(Exception):
