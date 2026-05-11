@@ -14,3 +14,17 @@ try:
 except ClienteInvalidoError as e:
 
     print("Error:", e)
+
+try:
+
+    servicio1 = ReservaSala(2)
+
+    reserva1 = Reserva(cliente1, servicio1)
+
+    reserva1.confirmar()
+
+    print(reserva1.mostrar_reserva())
+
+except Exception as e:
+
+    print("Error:", e)
