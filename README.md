@@ -25,7 +25,6 @@ Archivos principales:
   - Desarrollo de servicio.py
   - Desarrollo de main.py
 
-- YEFERSON YESID VEGA BERDUGO
-  - Desarrollo excepciones.py
-  - Desarrollo reserva.py
-  -
+- Yeferson Yesid Vega Berdugo
+  - Desarrollo de excepciones.py
+  - Desarrollo de reserva.py

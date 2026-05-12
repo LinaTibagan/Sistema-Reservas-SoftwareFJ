@@ -1,0 +1,3 @@
+# Registro de errores del sistema
+
+[2026-05-12 06:21:17] El nombre no puede estar vacío
